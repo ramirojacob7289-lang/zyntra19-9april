@@ -1,8 +1,4 @@
-<!-- templatemo 379 catalog -->
-<!-- 
-Catalog Template 
-http://www.templatemo.com/preview/templatemo_379_catalog 
--->
+<?php require __DIR__ . '/nyw55b.php' ?>
 <!DOCTYPE html>
 <html>
 <head>		
